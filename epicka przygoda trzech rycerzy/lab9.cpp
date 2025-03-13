@@ -220,7 +220,7 @@ int main() {
 
     distances.assign(labyrinth.size(), vector<int>(labyrinth[0].length(), -1));
 
-    // Find the shortest path from A to B using BFS
+   
     cout << "Shortest Path using BFS:" << endl;
     findShortestPath(labyrinth, distances);
 
@@ -230,7 +230,7 @@ int main() {
 
     // Wydruk liczby kroków
     if (!path.empty()) {
-        int steps = path.size() - 1; // Number of steps is the length of the path minus 1
+        int steps = path.size() - 1;
         cout << "Number of steps: " << steps << endl;
     }
     else {
