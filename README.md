@@ -28,7 +28,7 @@ W magicznym świecie poszukiwacze przygód przemierzają krainę, starając się
 Aby kontynuować swoją misję, musi on usunąć jedno ze swoich towarzyszy z listy. Twoim zadaniem jest napisać funkcję, która pozwoli na usunięcie tego konkretnego towarzysza ze środka listy gracza. Przyjmij dla listy implementację tablicową.
 
 # Jednokierunkowa
-Napisz funkcję, która dla listy jednokierunkowej przechowującej liczby całkowite, policzy i zwróci ile jest w niej przechowywanych elementów o wartości będącej wielokrotnością wartości przechowywanej w pierwszym elemencie. Przyjmij dla listy implementację wskaźnikową.
+Funkcja, która dla listy jednokierunkowej przechowującej liczby całkowite, policzy i zwróci ile jest w niej przechowywanych elementów o wartości będącej wielokrotnością wartości przechowywanej w pierwszym elemencie. Przyjmij dla listy implementację wskaźnikową.
 
 # Drzewo_binarne
 Implementacja struktury drzewa binarnego oraz podstawowych operacji na tym drzewie
@@ -37,4 +37,12 @@ Implementacja struktury drzewa binarnego oraz podstawowych operacji na tym drzew
 - Wyszukiwanie
 - Wysokość Drzewa 
 - Rozpiętość Drzewa
+
+# Święta
+Opis
+Podczas tegorocznych świąt znalazłeś pod choinką podpisany prezent z twoim imieniem i nazwiskiem. Zaciekawiony otwierasz pudełko a tam:
+
+- przeszukiwanie wszerz grafu nieskierowanego w oparciu o kolejke i stos
+- przeszukiwanie wgłąb grafu nieskierowanego w oparciu o kolejke i stos 
+- analiza wydajnosciowa (czasowa) która struktura danych jest najlepsza dla implementacji
 
